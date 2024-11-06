@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OmerGuler
 - 👀 I’m interested in ...Software Development , UAV's
-- 🌱 I’m currently learning ...Python , Ardunio , UAV , Html , Css
+- 🌱 I’m currently learning ...Python , Arduino , UAV , Html , Css
 - 📫 How to reach me ...ofguler2014@gmail.com
 
 <!---
